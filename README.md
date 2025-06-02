@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pragathi Ramji
 
-🚀 **Aspiring Cloud & DevOps Engineer | Azure Certified | Infrastructure Specialist**
+🚀 **Transitioning to Cloud & DevOps Engineer | Azure Certified | Infrastructure Specialist**
 
 
 🔭 I’m currently working on cloud infrastructure services and maintaing client-facing .NET applications and Linux/Windows server monitoring,patching.
@@ -68,7 +68,7 @@ I specialize in:
 
 ---
 
-### 🧪 Mini Hands-on based on AZ-104 Labs
+### 🧪 Hands-on based on AZ-104 Labs
 🔹 Azure High Availability VM Architecture
 - Deployed Linux & Windows VMs across availability zones; configured NSGs, Azure Load Balancer with health probes.
 - Enabled VM backups via Recovery Vault and performed test restores.
