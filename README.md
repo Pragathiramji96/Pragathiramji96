@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pragathi Ramji
 
-🚀 **Transitioning to Cloud & DevOps Engineer | Azure Certified | Infrastructure Specialist**
+🚀 **Transitioning to Cloud & DevOps Engineer | Microsoft Certified Azure Administrator (AZ-104) | Infrastructure Specialist**
 
 
 🔭 I’m currently working on cloud infrastructure services and maintaing client-facing .NET applications and Linux/Windows server monitoring,patching.
