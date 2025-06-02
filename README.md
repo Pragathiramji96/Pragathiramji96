@@ -1,4 +1,3 @@
- 🙋‍♀️ About Me
 ### Hi there 👋 I'm Pragathi Ramji
 
 🚀 **Aspiring Cloud & DevOps Engineer | Azure Certified | Infrastructure Specialist**
@@ -10,7 +9,8 @@
 - 📫 How to reach me: pragathi917@gmail.com | LinkedIn – www.linkedin.com/in/pragathi-ramji-0b874ab7
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I started with manual server patching and now automate full VM deployments in the cloud—growth never stops!
-
+- 
+### 🙋‍♀️ About Me
 I'm a passionate and performance-driven Server Engineer with over **4 years of experience** in managing cloud infrastructure, application deployments, and driving system reliability across Windows/Linux Servers Azure. 
 I specialize in:
 
@@ -62,7 +62,7 @@ I specialize in:
 ### 📫 Let's Connect
 
 - 📧 **Email:** pragathi917@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com) 
+- 💼 **LinkedIn:** Pragathi Ramji[ www.linkedin.com/in/pragathi-ramji-0b874ab7 ]
 
 🔍 *“Striving for scalable, secure, and well-documented infrastructure in every deployment.”*
 
