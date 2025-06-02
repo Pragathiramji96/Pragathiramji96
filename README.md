@@ -1,16 +1,69 @@
-## Hi there 👋
+ 🙋‍♀️ About Me
+### Hi there 👋 I'm Pragathi Ramji
 
-<!--
-**Pragathiramji96/Pragathiramji96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Cloud & DevOps Engineer | Azure Certified | Infrastructure Specialist**
+🔭 I’m currently working on cloud infrastructure services and maintaing client-facing .NET applications and Linux/Windows server monitoring,patching.
+- 🌱 I’m currently learning advanced Terraform for IaC and deep-diving into Azure Kubernetes Service (AKS).
+- 👯 I’m looking to collaborate on real-world DevOps projects, Azure/AWS infrastructure setups, and open-source server management tools.
+- 🤔 I’m looking for help with contributing to open-source repositories in cloud infrastructure and CI/CD.
+- 💬 Ask me about Windows Server Administration, Active Directory, Azure administration, and Production/Non-Prod Application support.
+- 📫 How to reach me: pragathi917@gmail.com | LinkedIn – www.linkedin.com/in/pragathi-ramji-0b874ab7
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I started with manual server patching and now automate full VM deployments in the cloud—growth never stops!
 
-Here are some ideas to get you started:
+I'm a passionate and performance-driven Server Engineer with over **4 years of experience** in managing cloud infrastructure, application deployments, and driving system reliability across Windows/Linux Servers Azure. 
+I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Server Administration** – Windows Server, Active Directory, GPO, DNS, DHCP
+- ☁️ **Cloud Platforms** – Microsoft Azure(AVD, VMs, NSGs, Load Balancer, Key Vault, Recovery Vault, Azure Monitor), AWS EC2, S3, IAM, VPC
+- 🔧 **DevOps Tools** – Azure DevOps, Jenkins, Docker, Git(Basics), Terraform (basic), Ansible (basic)
+- 🔐 **Security & Compliance** – RBAC, MFA, Azure AD, Key Vault.
+- 📦 **CI/CD & Automation** – Jenkins pipelines, Docker Files, 
+- 🧩 **Monitoring & Backup** – Azure Monitor, Log Analytics, AppDynamics, Azure Backup, Production Applications Disaster Recovery
+
+---
+
+### 📌 Current Focus
+
+- Advancing my expertise in **Azure cloud architecture** and **infrastructure as code (IaC)**
+- Contributing to **DevOps workflows**, containerization, and observability projects
+- Building **hands-on labs**, scripts, and infrastructure templates for reusable automation
+
+---
+
+### 🧰 Tools & Technologies
+
+![Azure]
+![AWS]
+![Windows]
+![PowerShell]
+![Docker
+![Git]
+
+---
+
+### 🧪 Projects & Labs (Coming Soon)
+
+* Azure High Availability VM Architecture Lab  
+* RBAC & Cost Control Implementation  
+* Dockerize .NET apps and deploy via Jenkins CI/CD
+
+---
+
+### 📜 Certifications
+
+- ✅ Microsoft Certified: Azure Administrator Associate (AZ-104) secured 858/1000 in May 2025
+- ✅ AWS Cloud Technical Essentials
+- ✅ Microsoft Certified Database Administrator
+- ✅	AWS Serverless & Migration Fundamentals – Amazon/Coursera
+
+---
+
+### 📫 Let's Connect
+
+- 📧 **Email:** pragathi917@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com) 
+
+🔍 *“Striving for scalable, secure, and well-documented infrastructure in every deployment.”*
+
+
